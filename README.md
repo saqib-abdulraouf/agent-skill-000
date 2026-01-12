@@ -1,5 +1,3 @@
----
-
 ## 🚀 What's Inside This Repository?
 
 This repository contains **three powerful AI skill definitions**, each focused on solving a specific problem:
@@ -10,7 +8,6 @@ This repository contains **three powerful AI skill definitions**, each focused o
 
 Each skill is written in a clean `.md` format and can be plugged into AI agents, workflows, or prompt systems.
 
----
 
 ## 📘 1. Hybrid Code Concept Explainer
 
