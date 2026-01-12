@@ -1,8 +1,3 @@
-# 🧠 AI Skills Collection
-
-A professional collection of **custom AI skills** designed for education, coding assistance, assessments, and digital marketing content creation.
-These skills are modular, reusable, and built with **real-world use cases** in mind.
-
 ---
 
 ## 🚀 What's Inside This Repository?
